@@ -1,0 +1,6 @@
+c:\users\chris\source\repos\Anonimbus\Anonimbus\obj\Debug\Anonimbus.csprojAssemblyReference.cache
+c:\users\chris\source\repos\Anonimbus\Anonimbus\obj\Debug\Anonimbus.csproj.CoreCompileInputs.cache
+C:\Users\Tarush and Kushagra\Downloads\Anonimbus\obj\Debug\Anonimbus.csprojAssemblyReference.cache
+C:\Users\Tarush and Kushagra\Downloads\Anonimbus\obj\Debug\Anonimbus.csproj.CoreCompileInputs.cache
+C:\Users\Tarush and Kushagra\source\repos\Anonimbus\obj\Debug\Anonimbus.csprojAssemblyReference.cache
+C:\Users\Tarush and Kushagra\source\repos\Anonimbus\obj\Debug\Anonimbus.csproj.CoreCompileInputs.cache
